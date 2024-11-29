@@ -1,42 +1,43 @@
 criaCartao(
     'Tema CSS',
-    ' O que é CSS?',
+    'O que é CSS',
     'É uma linguagem para estilizar páginas HTML'
 )
 
 criaCartao(
     'Tema CSS',
-    'Para que serve o id no CSS?',
-    'Estilizar um elemento único'
+    'Para que serve o id o CSS',
+    'Estilizar um elemento unico'
 )
 
 criaCartao(
     'Tema CSS',
-    'Como mudar a cor de fundo com CSS?',
-    'Use background-color'
+    'Como mudar a cor de fundo com o CSS?',
+    'Use background-color '
 )
 
 criaCartao(
-    'Tema HTML',
-    'Para que serve a tag (< a >)?',
+    'tema HTML',
+    'Para que serve a tag < a >?',
     'Criar links'
 )
+
 criaCartao(
-    'Tema HTML',
-    ' O que é uma tag (< div >)?',
+    'tema HTML',
+    'O que é uma tag < div >?',
     'Um contêiner de bloco para agrupar elementos'
 )
 
 criaCartao(
-    'Tema HTML',
-    'Como criar uma lista numerada?',
-    'Use a tag (< ol >) com (< li >)'
+    'tema HTML',
+    'Como criar um lista numerada?',
+    'Use a tag < ol > com < li >'
 )
 
 criaCartao(
     'Tema JavaScript',
     'O que é JavaScript?',
-    'Linguagem para adicionar interetividade em páginas web'
+    'LInguagem para adicionar interatividade em páginas web'
 )
 
 criaCartao(
@@ -48,5 +49,5 @@ criaCartao(
 criaCartao(
     'Tema JavaScript',
     'Para que serve o let no JavaScript?',
-    'Declarar variáveis com escopo de bloco'
+    'Declarar variaveis com escopo de bloco'
 )
